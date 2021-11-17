@@ -4,11 +4,11 @@
         "worker-id": "Ryzen 5"
     },
     "http": {
-        "enabled": false,
+        "enabled": true,
         "host": "127.0.0.1",
         "port": 9000,
         "access-token": null,
-        "restricted": true
+        "restricted": false
     },
     "autosave": true,
     "background": false,
