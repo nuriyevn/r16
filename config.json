@@ -1,13 +1,13 @@
 {
     "api": {
-        "id": "Ryzen 5",
+        "id": "Server",
         "worker-id": "Ryzen 5"
     },
     "http": {
         "enabled": true,
-        "host": "127.0.0.1",
+        "host": "0.0.0.0",
         "port": 9000,
-        "access-token": null,
+        "access-token": "newtoken",
         "restricted": false
     },
     "autosave": true,
